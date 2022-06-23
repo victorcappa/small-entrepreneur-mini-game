@@ -36,10 +36,10 @@ Simple mini-game, made with Unity for the Sustainability Awareness Week.
  
 <p align="left">
  
-  <img src="https://user-images.githubusercontent.com/40408965/175422828-db4de5f6-9ba4-4154-808c-faf572fd809f.gif" alt="animated" />
-
+  <img src="https://user-images.githubusercontent.com/40408965/175430176-27f8ccb2-0a90-4692-88b3-9a646e44f664.gif" alt="animated" />
 
 </p>
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
